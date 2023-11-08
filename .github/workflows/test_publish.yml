@@ -8,8 +8,6 @@ on:
       - 'v*'
   pull_request:
     branches:
-      - 'main'
-      - 'hotfix/**'
 
 jobs:
   test:
